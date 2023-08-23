@@ -4,8 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Kevin Riedmuller"
       href: Journal.html
-    - text: "Links"
+    - text: "Amber DePoy"
       href: Links.html
+    - text: "Rachel Dockman"
+      href: dockman.html
 output_dir: "docs"
