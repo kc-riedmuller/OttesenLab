@@ -5,9 +5,9 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Kevin Riedmuller"
-      href: Journal.html
+      href: riedmuller.html
     - text: "Amber DePoy"
-      href: Links.html
+      href: depoy.html
     - text: "Rachel Dockman"
       href: dockman.html
 output_dir: "docs"
