@@ -3,26 +3,32 @@ title: "Identifying microbe-microbe interactions via network analysis and cultur
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+##### Observational and experimental studies have linked distinct gut microbial community compositions to host health under a wide variety of conditions.  However, the microbial interactions that drive composition are difficult to test and obscured by microbiome complexity.  Our lab has developed a gnotobiotic cockroach model (*Periplaneta americana*) that allows us to explore these interactions via generation and inoculation of germ-free nymphs with individual organisms as well as undefined microbial consortia.  
 
-## R Markdown
+<br><br>
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+#### **Inoculation of germ-free nymphs with mouse fecal microbiota results in two distinct, simple communities dominated by *Proteus* or *Klebsiella*, but rarely both.  A second fecal inoculation reveals a degree of community plasticity but rarely caused major changes in dominant community member composition.**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+<br>
 
-```{r cars}
-summary(cars)
-```
+![](images/stackedBarplot.png)
+**Figure 1:** Relative abundance of sequence variants in gnotobiotic cockroaches inoculated with mouse feces, separated by number of inoculations and by cohort. Cohort is defined as a group of cockroaches hatched from the same egg case (ootheca) and inoculated with the same fecal pellet.
 
-## Including Plots
+<br>
 
-You can also embed plots, for example:
+##### **Co-occurrence network analysis of 16S data provides a means by which to infer community structure and potential microbe-microbe interactions driving composition.**
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+<br>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+![](images/interactionNetwork.png)
+**Figure 3:** Spearman correlation network of amplicon sequence variants that are significantly correlated to *Klebsiella_4* and/or *Proteus_2* (p < 0.001).  Red edges indicate a negative correlation and green edges indicate a positive correlation.
+
+<br>
+
+#### **I have isolated the microbes of interest from these communities and am currently testing inferred interactions *in vitro* with rich media and *in vivo* with germ-free cockroach nymphs.**
+
+<center>
+
+![](images/american-cockroach.jpeg)
+
+</center>

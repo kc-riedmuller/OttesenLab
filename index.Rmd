@@ -1,8 +1,5 @@
 ---
-output: html_document
+html_document:
 ---
 
-<a href = "https://crumplab.github.io">
 ![](images/2023_RecruitmentPoster.png)
-</a>
-</div>
