@@ -2,7 +2,7 @@ name: "Ottesen Lab"
 navbar:
   title: "Ottesen Lab"
   left:
-    - text: "Home"
+    - text: "Poster"
       href: index.html
     - text: "Kevin Riedmuller"
       href: riedmuller.html

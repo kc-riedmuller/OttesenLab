@@ -3,7 +3,7 @@ title: "Identifying microbe-microbe interactions via network analysis and cultur
 output: html_document
 ---
 
-##### Observational and experimental studies have linked distinct gut microbial community compositions to host health under a wide variety of conditions.  However, the microbial interactions that drive composition are difficult to test and obscured by microbiome complexity.  Our lab has developed a gnotobiotic cockroach model (*Periplaneta americana*) that allows us to explore these interactions via generation and inoculation of germ-free nymphs with individual organisms as well as undefined microbial consortia.  
+### Observational and experimental studies have linked distinct gut microbial community compositions to host health under a wide variety of conditions.  However, the microbial interactions that drive composition are difficult to test and obscured by microbiome complexity.  Our lab has developed a gnotobiotic cockroach model (*Periplaneta americana*) that allows us to explore these interactions via generation and inoculation of germ-free nymphs with individual organisms as well as undefined microbial consortia.  
 
 <br><br>
 
@@ -26,6 +26,8 @@ output: html_document
 <br>
 
 #### **I have isolated the microbes of interest from these communities and am currently testing inferred interactions *in vitro* with rich media and *in vivo* with germ-free cockroach nymphs.**
+
+
 
 <center>
 
