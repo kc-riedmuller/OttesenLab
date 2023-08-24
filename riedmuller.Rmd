@@ -26,11 +26,11 @@ output: html_document
 <br>
 
 #### **I have isolated the microbes of interest from these communities and am currently testing inferred interactions *in vitro* with rich media and *in vivo* with germ-free cockroach nymphs.**
-
+![](images/isolates.png)
 
 
 <center>
 
-![](images/american-cockroach.jpeg)
+![](images/american-cockroach.jpeg){width=50%}
 
 </center>

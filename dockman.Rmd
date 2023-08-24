@@ -8,7 +8,7 @@ output: html_document
 
 <center>
 
-![](images/american-cockroach.jpeg)
+![](images/american-cockroach.jpeg){width=50%}
 
 </center>
 

@@ -15,6 +15,6 @@ These community members play a crucial role in keeping fermentation reactions en
 
 <center>
 
-![](images/american-cockroach.jpeg)
+![](images/american-cockroach.jpeg){width=50%}
 
 </center>
