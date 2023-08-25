@@ -5,7 +5,7 @@ output: html_document
 
 ### Research has identified some gut microbes with tenuous associations to health or pathology, but ultimately, the complex nature of our gut microbiome introduces a plethora of factors that may be out of our control. That is not to say we have NO control! The gut microbiome exists within the host organism, putting the host in control of what gets in, who is allowed to stay, and what constraints the microbial community must operate under. 
 
-<br><br>
+<br>
 
 #### Our clearest tool for controlling the microbial community is via nutrients and organic compounds we introduce to the community, AKA diet. While we may understand how high fiber diets increase fibrolytic bacteria and consuming milk protein encourages *Lactococcus* growth, predicting the overall community response to a diet shift is a far more difficult endeavor. 
 
